@@ -1,0 +1,13 @@
+!SESSION 2014-04-29 23:30:06.682 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\galagali\Desktop\Navaneet's Folder\Extracurriculars\Maze Day\Pebble Project\pebble\src\com\example\pebble\MainActivity.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\galagali\Desktop\Navaneet's Folder\Extracurriculars\Maze Day\Pebble Project\pebble\src\com\example\pebble\MainActivity.java
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2014-04-29 23:31:25.826
+!MESSAGE An Android SDK is already being loaded. Please try again later.
+
+!ENTRY org.eclipse.ui 2 2 2014-04-29 23:33:22.962
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
